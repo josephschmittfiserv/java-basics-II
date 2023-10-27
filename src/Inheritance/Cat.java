@@ -1,4 +1,4 @@
-package Inheritance.Inheritance;
+package Inheritance;
 
 import java.util.Objects;
 

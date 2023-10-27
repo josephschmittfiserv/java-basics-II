@@ -1,4 +1,4 @@
-package Inheritance.Abstraction;
+package Abstraction;
 
 public abstract class Vehicle {
     private int gasTankCapacity;

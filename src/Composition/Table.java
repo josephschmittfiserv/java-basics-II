@@ -1,4 +1,4 @@
-package Inheritance.Compositoin;
+package Composition;
 
 import java.util.ArrayList;
 

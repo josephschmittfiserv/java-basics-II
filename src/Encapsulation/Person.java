@@ -1,4 +1,4 @@
-package Inheritance.Encapsulation;
+package Encapsulation;
 
 public final class Person {
     private int ssn;

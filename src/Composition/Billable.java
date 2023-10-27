@@ -1,4 +1,4 @@
-package Inheritance.Compositoin;
+package Composition;
 
 public interface Billable {
     Float getPrice();

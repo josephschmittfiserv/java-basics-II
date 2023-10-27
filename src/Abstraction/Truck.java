@@ -1,4 +1,4 @@
-package Inheritance.Abstraction;
+package Abstraction;
 
 public class Truck extends Vehicle {
     @Override

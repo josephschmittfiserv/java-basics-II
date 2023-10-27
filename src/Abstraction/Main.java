@@ -1,4 +1,4 @@
-package Inheritance.Abstraction;
+package Abstraction;
 
 import java.util.ArrayList;
 
